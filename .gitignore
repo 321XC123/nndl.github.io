@@ -228,3 +228,6 @@ pip-log.txt
 python/.ipynb_checkpoints/*
 ppt录音版/*
 *.thmx
+
+# Claude Code local config
+.claude/

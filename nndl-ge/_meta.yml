@@ -1,0 +1,32 @@
+key: ge
+title: 神经网络与深度学习（通识版）
+subtitle: 面向更广读者的入门读本
+short_title: 通识版
+cover: /assets/covers/nndl-ge-cover.png
+url: /nndl-ge/
+blurb: 以更直观的方式介绍神经网络与深度学习的核心思想，弱化数学推导，适合非专业读者与入门学习。
+authors: 邱锡鹏
+publisher: 机械工业出版社
+year: 2026
+status: forthcoming
+repo: https://github.com/nndl/nndl
+repo_path: nndl-ge
+douban: null
+links: []
+chapters:
+  - { num: 1,  title: 绪论 }
+  - { num: 2,  title: 机器学习概述 }
+  - { num: 3,  title: 前馈神经网络 }
+  - { num: 4,  title: 网络优化与正则化 }
+  - { num: 5,  title: 注意力机制与Transformer }
+  - { num: 6,  title: 无监督学习 }
+  - { num: 7,  title: 深度强化学习 }
+  - { num: 8,  title: 大语言模型 }
+  - { num: 9,  title: 钢与硅 }
+  - { num: 10, title: 智能体 }
+  - { num: 11, title: 扩散模型 }
+  - { num: 12, title: 多模态 }
+  - { num: 13, title: 科学智能 }
+  - { num: 14, title: 具身智能 }
+  - { num: 15, title: 安全与挑战 }
+  - { num: 16, title: 通用智能 }
