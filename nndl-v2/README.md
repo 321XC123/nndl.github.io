@@ -2,7 +2,7 @@
 
 俗称"蒲公英书"。本目录承载第 2 版的章节、习题和勘误。
 
-- 落地页：https://nndl.github.io/nndl-v2/
+- 落地页：https://nndl.ai/nndl-v2/
 - 元数据：[_meta.yml](_meta.yml)（章节结构、出版信息；由主站脚本聚合到 `nndl.github.io/_data/books.yml`）
 
 ## 同仓库的其他内容

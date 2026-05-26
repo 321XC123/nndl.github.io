@@ -10,7 +10,7 @@
 
 ## 主站与配套
 
-- 系列主站：https://nndl.github.io
+- 系列主站：https://nndl.ai
 - 案例与实践（PyTorch / Paddle）：https://github.com/nndl/nndl-practice
 - 大模型与智能体：https://github.com/nndl/llm-agent
 
