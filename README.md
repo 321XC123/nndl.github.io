@@ -4,7 +4,7 @@
 
 | 目录 | 内容 |
 |---|---|
-| [`nndl-v2/`](nndl-v2/) | 第 2 版（蒲公英书）章节、习题、勘误。**2025 已出版**。 |
+| [`nndl-v2/`](nndl-v2/) | 第 2 版（蒲公英书）章节、习题、勘误。**2026 即将出版**。 |
 | [`nndl-ge/`](nndl-ge/) | 通识版章节。**2026 即将出版**。 |
 | [`legacy/nndl-v1/`](legacy/nndl-v1/) | 第 1 版归档（PDF + 勘误 + 封面）。完整资料（PPT、各章 PDF）在 [`nndl-v1` 分支](https://github.com/nndl/nndl/tree/nndl-v1)。 |
 
