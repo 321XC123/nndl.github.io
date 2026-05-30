@@ -3,6 +3,7 @@ title: 神经网络与深度学习
 subtitle: 第 2 版（蒲公英书）
 short_title: 神经网络与深度学习
 cover: /assets/covers/nndl-2-cover.png
+pdf: https://github.com/nndl/nndl.github.io/releases/download/book-nndl-v2/nndl-v2.pdf
 url: /nndl-v2/
 blurb: 系统介绍神经网络与深度学习的理论与方法，覆盖从感知机到 Transformer 的完整脉络，适合系统学习。
 authors: 邱锡鹏

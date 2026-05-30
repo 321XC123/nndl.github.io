@@ -3,6 +3,7 @@ title: 神经网络与深度学习（通识版）
 subtitle: 面向更广读者的入门读本
 short_title: 通识版
 cover: /assets/covers/nndl-ge-cover.png
+pdf: https://github.com/nndl/nndl.github.io/releases/download/book-nndl-ge/nndl-ge.pdf
 url: /nndl-ge/
 blurb: 以更直观的方式介绍神经网络与深度学习的核心思想，弱化数学推导，适合非专业读者与入门学习。
 authors: 邱锡鹏
