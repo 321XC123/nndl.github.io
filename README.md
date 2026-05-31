@@ -17,3 +17,13 @@
 ## 元数据约定
 
 各书目录的 `_meta.yml` 是主站书目卡片的唯一数据源。主站构建时由 [`nndl.github.io/scripts/aggregate-books.py`](https://github.com/nndl/nndl.github.io/blob/main/scripts/aggregate-books.py) 聚合生成 `_data/books.yml`。
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=nndl%2Fnndl&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=nndl/nndl&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=nndl/nndl&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=nndl/nndl&type=date&legend=top-left" />
+ </picture>
+</a>
